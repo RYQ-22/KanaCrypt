@@ -1,5 +1,6 @@
 # KanaCrypt
 The KanaCrypt cipher appears in Detective Conan as a clever encryption using Japanese kana and kanji.
+
 ![](figure.jpg)
 
 ## Usage
