@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
 
     if len(sys.argv) != 3:
-        print("Usage: python jp2en.py <input_file> <output_file>")
+        print("Usage: python en2jp.py <input_file> <output_file>")
         sys.exit(1)
 
     input_file = sys.argv[1]
