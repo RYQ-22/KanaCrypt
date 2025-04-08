@@ -5,7 +5,7 @@ The KanaCrypt cipher appears in Detective Conan as a clever encryption using Jap
 
 ## Usage
 ```bash
-python jp2en.py <input_file> <output_file>
+python en2jp.py <input_file> <output_file>
 ```
 
 ## An Example in Detective Conan
